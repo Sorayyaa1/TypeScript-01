@@ -16,3 +16,4 @@ let itemsList:string[]=["pen","pencil","hghjg"];
 console.log(itemsList)
 
 let obj:object={name:"aaa"}
+let obj2:object={name:"bbb"}
