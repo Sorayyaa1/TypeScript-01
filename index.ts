@@ -14,3 +14,5 @@ console.log(RRR(3,3))
 
 let itemsList:string[]=["pen","pencil","hghjg"];
 console.log(itemsList)
+
+let obj:object={name:"aaa"}
